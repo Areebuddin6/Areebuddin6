@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Areebuddin6
-- 👀 I’m interested in Python, CSS, JavaScript and C++.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in Python, CSS, JavaScript, HTML, and React.
+- 🌱 I’m currently learning React and Machine Learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - I have completed course on C, C++, HTML, CSS and JavaScript.
